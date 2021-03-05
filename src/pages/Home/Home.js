@@ -12,7 +12,7 @@ import profile from "../../assets/images/me.jpg"
 
 import "./Home.css"
 
-class Blog extends Component {
+class Home extends Component {
 
     render() {
         return (
@@ -108,4 +108,4 @@ class Blog extends Component {
     }
 }
 
-export default Blog
+export default Home
