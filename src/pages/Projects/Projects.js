@@ -1,18 +1,17 @@
 import React, { Component } from 'react'
 
+import Card from '../../components/Card/Card'
 
-export class Blog extends Component {
-    static propTypes = {
-
-    }
+class Projects extends Component {
+  
 
     render() {
         return (
             <div>
-                Projects
+                <Card />
             </div>
         )
     }
 }
 
-export default Blog
+export default Projects
