@@ -21,8 +21,9 @@ class Home extends Component {
                  <div className="about-me">
                      <div className="about-me__row">
                          <div className="about-me__col-description">
-                            <p>Hi, I'm <strong>Konrad Staniszewski</strong>, a fourth year computer engineering student at the Univeristy of Alberta.</p>
-                            <p>I'm interested in web development, data visualization, machine learning, embedded systems, networking, quantum computing, 3D printing, physics, electronics, and many outdoor sports.</p>
+                            <p>Hi, I'm <strong>Johnson Mwakazi</strong>, a self-taught software developer. To say that I love programming is a BIG understatement, I spend almost every waking hour building something fun or watching tech talks. <strong>Currently I'm a frontend web developer</strong> and I use tools like React and Vue.</p>
+                            <p>I'm interested in web development, machine learning, networking, quantum computing, physics, electronics, and many outdoor sports.</p>
+                            <p>My motto is <strong>"Master the skills you use today and develop the skills you need tomorrow."</strong></p>
                          </div>
                          <div className="about-me__col-image">
                              <img src={profile} alt="my-profile" className="about-me__col-image__profile-image"/>

@@ -21,7 +21,8 @@
 
 .card-container-wrapper__card__image-container__image {
   max-width: 100%;
-  border-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
 
 
 }
@@ -31,6 +32,7 @@
     padding: 6px;
     letter-spacing: 1px;
     font-size: 12px;
+    
 }
 .card-container-wrapper__card__icons-container-wrapper__icon {
   color: white!important;
