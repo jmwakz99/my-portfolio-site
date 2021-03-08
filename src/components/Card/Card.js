@@ -71,7 +71,7 @@ class Card extends Component {
                             <img src={githubIcon} alt="Github Icon" className="card-container-wrapper__card__icons-container-wrapper__icon" />
                             
                         </a>
-                        <a href="https://github.com/jmwakz99/my-portfolio-site" target="_blank"  rel="noreferrer" title="view website">
+                        <a href="https://my-portfolio-6e122.firebaseapp.com/" target="_blank"  rel="noreferrer" title="view website">
                             <img src={linkIcon} alt="Github Icon" className="card-container-wrapper__card__icons-container-wrapper__icon" />
 
                         </a>
